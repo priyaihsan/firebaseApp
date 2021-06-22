@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FirebaseApp">
         <activity android:name=".LihatBarang"
-            android:label="@string/txtjudul3"></activity>
+            android:label="@string/txtJudul3"></activity>
         <activity android:name=".TambahData" />
         <activity android:name=".MainActivity">
             <intent-filter>
